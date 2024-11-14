@@ -1,8 +1,17 @@
 ---
-title: "My own RMarkdown file"
+title: "RMarkdown1"
 author: "Jelmer Nijdam"
 date: "2024-11-11"
 output: html_document
 ---
 
 This is my first RMarkdown tracked by Git! :)
+
+New line
+
+new emojis 
+
+^.^
+:D
+:P
+U_U
